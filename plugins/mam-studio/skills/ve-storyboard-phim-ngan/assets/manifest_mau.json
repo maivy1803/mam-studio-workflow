@@ -1,0 +1,21 @@
+{
+  "title": "Halo_Cub - Tập 1 Rau_cau - Storyboard v1 (mẫu)",
+  "panels": [
+    {
+      "id": "S01",
+      "frames": "f1–51 (2.13s)",
+      "framing": "Trung cảnh, máy đi theo",
+      "action": "Bò đi vòng ra sau lưng Vịt đang làm rau câu",
+      "dialogue": "L01–L02 Bò: \"Duma…\" → \"Biết làm rau câu luôn.\"",
+      "image": "flow/SB_S01.jpg"
+    },
+    {
+      "id": "S02",
+      "frames": "f52–86 (1.46s)",
+      "framing": "Hai nhân vật, ngang vai",
+      "action": "Vịt nhấc khuôn, rau câu ra đĩa",
+      "dialogue": "L03 Vịt: \"Khi dễ tao mạy.\"",
+      "image": "flow/SB_S02.jpg"
+    }
+  ]
+}

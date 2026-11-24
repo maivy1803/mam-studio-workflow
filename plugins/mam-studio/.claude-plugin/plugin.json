@@ -1,0 +1,11 @@
+{
+  "name": "mam-studio",
+  "version": "1.2.0",
+  "description": "Mam_Studio / Halo_Cub: quy tac dieu phoi 6 Session, thay nhan vat vao clip goc (giu tieng goc, dung ti le that, sua khop mieng), ve storyboard phim ngan, design system (quy chuan hinh anh, ghep nhan character sheet).",
+  "author": {
+    "name": "Mam_Studio"
+  },
+  "license": "LicenseRef-Mam-Studio-Private",
+  "keywords": ["mam-studio", "halo-cub", "animation", "storyboard", "design-system"],
+  "icon": "./.claude-plugin/icon.png"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mam-studio-kit",
+  "description": "Bo cai Mam_Studio / Halo_Cub: skill quy tac dieu phoi, thay nhan vat vao clip goc, ve storyboard, design system.",
+  "owner": { "name": "Mam_Studio" },
+  "plugins": [
+    {
+      "name": "mam-studio",
+      "source": "./plugins/mam-studio",
+      "description": "4 skill Mam_Studio: quy tac dieu phoi 6 Session, thay nhan vat Halo_Cub vao clip goc giu tieng goc, ve storyboard phim ngan, design system (quy chuan hinh anh).",
+      "version": "1.2.0"
+    }
+  ]
+}
